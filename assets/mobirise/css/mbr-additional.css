@@ -702,6 +702,19 @@ a {
 .cid-ts3DhpQiCq .row {
   justify-content: center;
 }
+.cid-ts3DhpQiCq .row {
+  padding: 0 80px;
+}
+@media (max-width: 992px) {
+  .cid-ts3DhpQiCq .row {
+    padding: 0 35px;
+  }
+}
+@media (max-width: 425px) {
+  .cid-ts3DhpQiCq .row {
+    padding: 0 24px;
+  }
+}
 .cid-ts3DhpQiCq .video-wrapper iframe {
   width: 100%;
 }
